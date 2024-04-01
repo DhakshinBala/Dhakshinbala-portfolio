@@ -9,6 +9,7 @@ function Type() {
           "Cybersecurity Analyst",
           "Penetration Tester",
           "Full Stack Developer",
+          "Web Developer",
         ],
         autoStart: true,
         loop: true,
