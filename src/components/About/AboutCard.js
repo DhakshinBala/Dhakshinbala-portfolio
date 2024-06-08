@@ -29,7 +29,7 @@ function AboutCard() {
               <AiOutlineArrowRight />
             </li> */}
             <li className="about-activity">
-              <AiOutlineArrowRight /> Traveling
+              <AiOutlineArrowRight /> Travelling
             </li>
           </ul>
         </blockquote>

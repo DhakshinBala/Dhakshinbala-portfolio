@@ -4,6 +4,7 @@ import Navbar from "./components/navbar/Navbar";
 import Home from "./components/Home/Home";
 import About from "./components/About/About";
 import Projects from "./components/Projects/Projects";
+import Work from "./components/Work/Work";
 import Footer from "./components/footer/Footer";
 import { ThemeContext } from "./Context/theme";
 import {
@@ -38,6 +39,7 @@ function App() {
           <Routes>
             <Route path="/" element={<Home />} />
             <Route path="/project" element={<Projects />} />
+            <Route path="/work" element={<Work />} />
             <Route path="/about" element={<About />} />
             <Route path="*" element={<Navigate to="/" />} />
           </Routes>

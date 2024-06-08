@@ -93,6 +93,15 @@ function NavBar() {
                 Projects
               </Nav.Link>
             </Nav.Item>
+            <Nav.Item>
+              <Nav.Link
+                as={Link}
+                to="/work"
+                onClick={() => updateExpanded(false)}
+              >
+                Work Experience
+              </Nav.Link>
+            </Nav.Item>
             {/* <Nav.Item>
               <Nav.Link
                 href="https://blog.rahuljha.info/"
