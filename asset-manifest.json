@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Dhakshinbala-portfolio/static/css/main.c4558c0f.css",
-    "main.js": "/Dhakshinbala-portfolio/static/js/main.3465cab6.js",
+    "main.js": "/Dhakshinbala-portfolio/static/js/main.03f61ebd.js",
     "static/js/496.1811ca5a.chunk.js": "/Dhakshinbala-portfolio/static/js/496.1811ca5a.chunk.js",
     "static/media/Avatar.png": "/Dhakshinbala-portfolio/static/media/Avatar.c2e7af43f4855d43aae9.png",
     "static/media/homeicons.svg": "/Dhakshinbala-portfolio/static/media/homeicons.635077bdda0ab43ae14208bcfda93699.svg",
@@ -15,14 +15,14 @@
     "static/media/logoDark.png": "/Dhakshinbala-portfolio/static/media/logoDark.7bc51a27e85aae0bb257.png",
     "static/media/logoLight.png": "/Dhakshinbala-portfolio/static/media/logoLight.dd71cf0a9fd15481c41b.png",
     "static/media/ecart.png": "/Dhakshinbala-portfolio/static/media/ecart.12d70bc58cddca863da9.png",
-    "index.html": "/Dhakshinbala-portfolio/index.html",
     "static/media/pre.svg": "/Dhakshinbala-portfolio/static/media/pre.74b00c043f4cea5fb393.svg",
+    "index.html": "/Dhakshinbala-portfolio/index.html",
     "main.c4558c0f.css.map": "/Dhakshinbala-portfolio/static/css/main.c4558c0f.css.map",
-    "main.3465cab6.js.map": "/Dhakshinbala-portfolio/static/js/main.3465cab6.js.map",
+    "main.03f61ebd.js.map": "/Dhakshinbala-portfolio/static/js/main.03f61ebd.js.map",
     "496.1811ca5a.chunk.js.map": "/Dhakshinbala-portfolio/static/js/496.1811ca5a.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.c4558c0f.css",
-    "static/js/main.3465cab6.js"
+    "static/js/main.03f61ebd.js"
   ]
 }
