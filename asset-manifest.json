@@ -1,10 +1,11 @@
 {
   "files": {
-    "main.css": "/Dhakshinbala-portfolio/static/css/main.f10b2205.css",
-    "main.js": "/Dhakshinbala-portfolio/static/js/main.5d6813bd.js",
+    "main.css": "/Dhakshinbala-portfolio/static/css/main.c4558c0f.css",
+    "main.js": "/Dhakshinbala-portfolio/static/js/main.6ad47f4b.js",
     "static/js/496.1811ca5a.chunk.js": "/Dhakshinbala-portfolio/static/js/496.1811ca5a.chunk.js",
     "static/media/Avatar.png": "/Dhakshinbala-portfolio/static/media/Avatar.c2e7af43f4855d43aae9.png",
     "static/media/homeicons.svg": "/Dhakshinbala-portfolio/static/media/homeicons.635077bdda0ab43ae14208bcfda93699.svg",
+    "static/media/vtf.png": "/Dhakshinbala-portfolio/static/media/vtf.7cb7a320111b34cfcc89.png",
     "static/media/about.png": "/Dhakshinbala-portfolio/static/media/about.0d89b152b9d060142e14.png",
     "static/media/ExpenseTracker.png": "/Dhakshinbala-portfolio/static/media/ExpenseTracker.30d4df4d31ff0f19e95b.png",
     "static/media/PrivateChat.png": "/Dhakshinbala-portfolio/static/media/PrivateChat.54cf4a492d01170d9b8a.png",
@@ -12,14 +13,15 @@
     "static/media/logoDark.png": "/Dhakshinbala-portfolio/static/media/logoDark.7bc51a27e85aae0bb257.png",
     "static/media/logoLight.png": "/Dhakshinbala-portfolio/static/media/logoLight.dd71cf0a9fd15481c41b.png",
     "static/media/ecart.png": "/Dhakshinbala-portfolio/static/media/ecart.12d70bc58cddca863da9.png",
+    "static/media/cisco.png": "/Dhakshinbala-portfolio/static/media/cisco.6bde29d0aa3d4117b040.png",
     "index.html": "/Dhakshinbala-portfolio/index.html",
     "static/media/pre.svg": "/Dhakshinbala-portfolio/static/media/pre.74b00c043f4cea5fb393.svg",
-    "main.f10b2205.css.map": "/Dhakshinbala-portfolio/static/css/main.f10b2205.css.map",
-    "main.5d6813bd.js.map": "/Dhakshinbala-portfolio/static/js/main.5d6813bd.js.map",
+    "main.c4558c0f.css.map": "/Dhakshinbala-portfolio/static/css/main.c4558c0f.css.map",
+    "main.6ad47f4b.js.map": "/Dhakshinbala-portfolio/static/js/main.6ad47f4b.js.map",
     "496.1811ca5a.chunk.js.map": "/Dhakshinbala-portfolio/static/js/496.1811ca5a.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.f10b2205.css",
-    "static/js/main.5d6813bd.js"
+    "static/css/main.c4558c0f.css",
+    "static/js/main.6ad47f4b.js"
   ]
 }
