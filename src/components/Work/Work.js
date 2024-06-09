@@ -14,9 +14,8 @@ function Work() {
     <Container fluid className="project-section">
       <Container>
         <h1 className="project-heading">
-          My <strong className="Fluorescent-Blue">Work Experience </strong>
+          <strong className="Fluorescent-Blue">Work Experience </strong>
         </h1>
-        <p>Some</p>
         <Row style={{ justifyContent: "center", paddingBottom: "10px" }}>
           <Col md={6} lg={4} className="project-card">
             <div className="project-card-wrapper">
@@ -123,6 +122,7 @@ function Work() {
             <div className="project-card-wrapper">
               <Workcards
                 imgPath={Cisco}
+                
                 title="Cisco Networking Academy"
                 description={
                   <>

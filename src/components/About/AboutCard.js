@@ -13,7 +13,7 @@ function AboutCard() {
               Dhakshineshwara Balaji Selvaraj
             </span>{" "}
             from United Kingdom. I am a computer science master graduate and a
-            passionate cybersecurity analyst.
+            passionate cybersecurity analyst.Additionally, I am also interested in Full stack development. 
             <br />
             <br />
             In addition to hacking , here are some other things I enjoy doing!
@@ -25,9 +25,9 @@ function AboutCard() {
             <li className="about-activity">
               <AiOutlineArrowRight /> Driving
             </li>
-            {/* <li className="about-activity">
-              <AiOutlineArrowRight />
-            </li> */}
+            <li className="about-activity">
+              <AiOutlineArrowRight /> Hackathons
+            </li>
             <li className="about-activity">
               <AiOutlineArrowRight /> Travelling
             </li>
