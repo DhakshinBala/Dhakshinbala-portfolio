@@ -24,7 +24,7 @@ function Footer() {
               <a
                 style={{ color: `var(--clr-primary)` }}
                 className="email"
-                href="mailto:rahul.workmail01@gmail.com"
+                href="mailto:sdhakshinbala@gmail.com"
                 target="_blank"
                 rel="noopener noreferrer"
                 aria-label="email"
@@ -36,7 +36,7 @@ function Footer() {
               <a
                 style={{ color: `var(--clr-primary)` }}
                 className="linkedin"
-                href="https://www.linkedin.com/in/Rahuljha4171/"
+                href="www.linkedin.com/in/dhakshinbala"
                 target="_blank"
                 rel="noopener noreferrer"
                 aria-label="linkedin"
