@@ -15,7 +15,7 @@ function Toolstack() {
       <Col xs={4} md={2} className="tech-icons">
         <div className="icon-container">
           <SiKalilinux />
-          <span className="icon-label">Linux</span>
+          <span className="icon-label">Linux </span>
         </div>
       </Col>
       <Col xs={4} md={2} className="tech-icons">

@@ -36,7 +36,7 @@ function Footer() {
               <a
                 style={{ color: `var(--clr-primary)` }}
                 className="linkedin"
-                href="www.linkedin.com/in/dhakshinbala"
+                href="https://www.linkedin.com/in/dhakshinbala/"
                 target="_blank"
                 rel="noopener noreferrer"
                 aria-label="linkedin"
