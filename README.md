@@ -1,13 +1,12 @@
 <h2 align="center">
-  Dhakshineshwara Balaji Selvaraj <br/>
-  <a href="https://www.rahuljha.info/" target="_blank">Dhakshineshwara Balaji Selvaraj</a>
+  <a href="https://dhakshinbala.github.io/Dhakshinbala-portfolio/#/" target="_blank">Dhakshineshwara Balaji Selvaraj</a>
 </h2>
 
 <br/>
 
 ## Built With
 
-My personal portfolio website <a href="https://dhakshinbala.github.io/Dhakshinbala-portfolio/#/work" target="_blank">Dhakshineshwara Balaji Selvaraj</a> features some of my projects as well as my resume and technical skills.<br/>
+My personal portfolio website <a href="https://dhakshinbala.github.io/Dhakshinbala-portfolio/#/" target="_blank">Dhakshineshwara Balaji Selvaraj</a> features some of my projects as well as my resume and technical skills.<br/>
 
 This project is built using these technologies.
 
